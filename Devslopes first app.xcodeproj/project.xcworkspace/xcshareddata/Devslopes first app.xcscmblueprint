@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2A80A316E12381955DAF7FC34876E4FD766EA1A3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2A80A316E12381955DAF7FC34876E4FD766EA1A3" : 9223372036854775807,
+    "99A1F6F5D2508B00480B611616D8DC01F70CFE4C" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "382F9B7A-7D05-45FE-9EF8-D967D6892B73",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2A80A316E12381955DAF7FC34876E4FD766EA1A3" : "Devslopes\/",
+    "99A1F6F5D2508B00480B611616D8DC01F70CFE4C" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Devslopes first app",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Apps\/FirstApp\/Devslopes first app.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/sebastianasp\/devslopes.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2A80A316E12381955DAF7FC34876E4FD766EA1A3"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:marvoging\/App.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "99A1F6F5D2508B00480B611616D8DC01F70CFE4C"
+    }
+  ]
+}
